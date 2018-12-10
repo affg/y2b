@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCq8ffYYu17sIrr87woVFe95-wmTNUewy8');
+define('APIKEY', 'AIzaSyCrkRw5t95aNTHRSJoUPt-AIi__0HCy3xg');
 define('GJ_CODE', 'US');
 define('SITE_NAME', 'y2b');
 define('TITLENAME', 'y2b');
