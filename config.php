@@ -1,7 +1,7 @@
 <?php
 define('ROOT_PART', Root_part());
 define('APIKEY', 'AIzaSyCrkRw5t95aNTHRSJoUPt-AIi__0HCy3xg');
-define('GJ_CODE', 'US');
+define('GJ_CODE', 'kr');
 define('SITE_NAME', 'y2b');
 define('TITLENAME', 'y2b');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
